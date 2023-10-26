@@ -1,0 +1,51 @@
+.display-4{
+    color: pink;
+}
+
+.lead{
+ color: pink;
+}
+
+.favorite{
+    color: pink;
+}
+
+.card-title{
+ color: blue;
+ text-align: center;
+}
+.card-text{
+    color: blue;
+    text-align: center;
+ 
+}
+.jumbotron{
+    background-color:black;
+}
+
+.PONYYPON{
+    text-align: center;
+    color: brown;
+}
+
+.Dried_Flowers{
+    text-align: center;
+    color: brown;
+}
+
+.Paris{
+    text-align: center;
+    color: brown;
+}
+
+.card-footer{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.MLT{
+    color: brown;
+}
+
+.nav-link{
+    margin-left: 30px;
+}
